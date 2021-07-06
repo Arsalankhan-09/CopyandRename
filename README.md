@@ -1,6 +1,6 @@
 
 ---
-# ImagesRename
+# Rename
 # Copyfolder
 
 ## Motivation
