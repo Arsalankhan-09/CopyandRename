@@ -1,9 +1,11 @@
 
 ---
 # ImagesRename
+# Copyfolder
 
 ## Motivation
 To change the name of all images in a folder
+To copy one folder to another
 
 ## Requirements
 Python 
@@ -12,5 +14,6 @@ Python
 ```
 ## To run
 ```python
-$ python3 Rename_Images.pyy
+$ python3 rename.py
+$ python3 copy.py
 ```
